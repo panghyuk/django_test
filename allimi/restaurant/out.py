@@ -22,6 +22,3 @@ def sangrok1():
                 continue
             menu = menu + text + " " + "\n"
     return menu
-
-
-    
